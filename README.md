@@ -21,8 +21,7 @@ Mobile Friendly: The site is optimized for mobile devices, ensuring a smooth use
 # Technologies Used 
 <img src="https://bottlepy.org/docs/dev/_static/logo_nav.png" width="50"/>Bottle: A micro web framework for Python used to build the backend of the Autopilot News Site.
 
-Python: The programming language used to develop the site.
-![image description](https://www.python.org/static/img/python-logo.png) 
+<img src="https://www.python.org/static/img/python-logo.png" width="50"/>Python: The programming language used to develop the site.
 
 HTML/CSS: The frontend of the site is built using HTML and CSS.
 JavaScript: Used for making the site interactive and enhancing the user experience.
