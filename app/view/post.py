@@ -9,7 +9,7 @@ def post(slug):
     import mariadb  
     conn = mariadb.connect(user="projectbatman",
             password="Selin@_Kyle",
-            host="178.132.4.97",
+            host="localhost",
             database="dbrobin")     
     cur = conn.cursor() 
 
