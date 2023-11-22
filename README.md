@@ -17,9 +17,9 @@ Search: Users can search for specific articles using keywords.
 External Links: Users can read full articles on external websites by clicking on the article title.
 Categorized News: Articles are classified into different categories for easy navigation.
 Mobile Friendly: The site is optimized for mobile devices, ensuring a smooth user experience on all screen sizes.
-# Technologies Used
-Bottle: A micro web framework for Python used to build the backend of the Autopilot News Site.
-![image description](https://bottlepy.org/docs/dev/_static/logo_nav.png) 
+
+# Technologies Used 
+<img src="https://bottlepy.org/docs/dev/_static/logo_nav.png" width="50"/>Bottle: A micro web framework for Python used to build the backend of the Autopilot News Site.
 
 Python: The programming language used to develop the site.
 ![image description](https://www.python.org/static/img/python-logo.png) 
